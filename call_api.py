@@ -3,7 +3,7 @@
 ##############
 # USER CONFIG
 ##############
-# Base URL to Sonarr like localhost:8080
+# Base URL to SABnzbd like localhost:8080
 baseUrl=""
 # Your API key
 apiKey=""
